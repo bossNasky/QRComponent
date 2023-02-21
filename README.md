@@ -1,12 +1,12 @@
 <p id="readme-top"></p>
 <div align="center">
-  <h3 align="center">FAQ Accordion</h3>
+  <h3 align="center">QR Code Component</h3>
 
   <p align="center">
-    A FAQ Accordion on design from frontendmentor.
+    QR Code Component based on frontend mentor design..
     <br />
     <br />
-    <a href="https://thriving-rolypoly-bd96cc.netlify.app/">View Demo</a>
+    <a href="https://qr-component-mauve.vercel.app/">View Demo</a>
   </p>
 </div>
 
@@ -33,7 +33,7 @@
 
 ## About The Project
 
-Project show a FAQ Accordion. Click on each and see something amazing :)
+Scan the QR Code and see what magical place it will take you to.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -41,10 +41,9 @@ Project show a FAQ Accordion. Click on each and see something amazing :)
 
 Technologies used:
 
-- ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 - ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 - ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-- ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+- ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -58,7 +57,7 @@ To get a local copy up and running follow these simple example steps.
 
 1. Clone the repo
    ```sh
-   git clone {{URL}}
+   git clone {{GITHUB_CLONE_URL}}
    ```
 2. Install NPM packages
    ```sh
