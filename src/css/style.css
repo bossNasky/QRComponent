@@ -1,0 +1,24 @@
+:root {
+  --clr-primary-400: hsl(218, 44%, 22%);
+  --clr-primary-300: hsl(220, 15%, 55%);
+  --clr-neutral-400: hsl(0, 0%, 100%);
+  --clr-neutral-300: hsl(212, 45%, 89%);
+}
+
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: inherit;
+}
+
+html {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Outfit", sans-serif;
+  line-height: 1;
+  font-weight: 400;
+}
